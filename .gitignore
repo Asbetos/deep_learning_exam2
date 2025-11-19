@@ -1,0 +1,4 @@
+*.zip
+Data/
+Final Deliverables/
+Code/All_Submissions/day7/model_checkpoint/checkpoint_Andrew_best.pt
